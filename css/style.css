@@ -1,5 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
 
+body {
+  background: rgba(255, 255, 255, 1);
+}
+
 .font-manrope {
   font-family: "Manrope", sans-serif;
+}
+
+.btn-gradi {
+  background: linear-gradient(270.00deg, rgba(255, 0, 0, 1),rgba(255, 137.00003051757812, 55.999996185302734, 1) 100%);
+}
+
+p {
+  color: #777777;
+  font-weight: 500;
 }
