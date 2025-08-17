@@ -8,6 +8,15 @@ body {
   font-family: "Manrope", sans-serif;
 }
 
+p {
+  color: #777777;
+  font-weight: 500;
+}
+
+.testimonial-p {
+  color: white;
+}
+
 .btn-gradi {
   background: linear-gradient(
     270deg,
@@ -32,11 +41,8 @@ body {
   );
 }
 
-p {
-  color: #777777;
-  font-weight: 500;
-}
-
-.testimonial-p {
-  color: white;
+.testimonial-bg {
+  background-image: url(../images/bg_cup.png);
+  background-repeat: no-repeat;
+  background-position: 200px 250px;
 }
